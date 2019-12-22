@@ -1,2 +1,3 @@
 # CS61A
-UCB 2019Fall CS61A Codes
+Codes for CS61A, 19 Fall, UC Berkeley.<br>
+PLEASE DO NOT COPY.
